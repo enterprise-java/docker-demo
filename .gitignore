@@ -59,6 +59,7 @@ crashlytics-build.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 ### Maven template
 target/
 pom.xml.tag
@@ -70,3 +71,5 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
+=======
+>>>>>>> 666d987caefbbc99150593caecad7abad4e8e631
